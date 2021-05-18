@@ -1,0 +1,26 @@
+Kodutöö nr 4a.                                                 Programmi väljund
+================================================================================:
+               AASTA 2018 TEMPERATUURIDE TABEL KUUDE LÕIKES
+           E-ilmajaama (Tartus füüsikahoone katusel) andmetel
+
+                     keskmine         suurim          vähim           vahe
+       jaanuar         -2.337        -12.008          5.582         17.590 
+      veebruar         -7.866        -21.635          0.746         22.381 
+         märts         -3.453        -18.067          4.940         23.007 
+        aprill          7.202         -1.382         22.821         24.203 
+           mai         15.988          3.324         27.290         23.966 
+         juuni         15.881          4.165         26.075         21.911 
+         juuli         20.740          9.679         30.236         20.557 
+        august         18.844          7.910         32.191         24.281 
+     september         14.277          2.478         26.750         24.272 
+      oktoober          7.435         -2.145         19.418         21.563 
+      november          2.377         -9.098         10.992         20.089 
+     detsember         -1.319        -10.529          3.742         14.271 
+
+---------------------------------------------------------------------------
+
+Keskmiste keskmine: 7.314
+Sellele lähima keskmisega kuu on aprill
+
+================================================================================.
+Kristjan Pühvel                                          2020-03-12 01:24:55.895

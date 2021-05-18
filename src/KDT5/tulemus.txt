@@ -1,0 +1,27 @@
+Kodutöö nr 4a.                                                 Programmi väljund
+================================================================================:
+
+Sagedasemad 5-tähelised sõnad tekstifailis KuldninagaMees_est.txt / Korboja_sisu_puhastekst.txt
+
+jälle : 10 Korda
+ütles : 10 Korda
+selle : 9 Korda
+peigmees : 9 Korda
+peale : 8 Korda
+pärast : 7 Korda
+vastu : 6 Korda
+pruudi : 6 Korda
+hüüdis : 5 Korda
+vastas : 5 Korda
+saanud : 5 Korda
+tüdruk : 5 Korda
+juure : 5 Korda
+mitte : 4 Korda
+edasi : 4 Korda
+tagasi : 4 Korda
+kõrge : 4 Korda
+välja : 4 Korda
+sisse : 4 Korda
+sinna : 4 Korda
+================================================================================.
+Kristjan Pühvel                                          2020-03-26 21:50:04.541
